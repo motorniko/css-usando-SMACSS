@@ -1,0 +1,19 @@
+/* aqui ls comp que se reutilizan */
+
+.card {
+ padding: 20px;
+ width: 280px;
+ border-radius: 10px;
+ transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+ transform: translateY(-5px);
+}
+
+.btn {
+ padding: 10px 15px;
+ border-radius: 6px;
+ border: none;
+ cursor: pointer;
+}

@@ -1,0 +1,22 @@
+/* estas son como las skins */
+
+.card--default {
+ background: #fff;
+ box-shadow: 0 3px 6px rgba(0,0,0,0.15);
+}
+
+ .card--highlight {
+ border: 2px solid #FFBD4D;
+ background: #FFF6DE;
+}
+
+.btn--primary {
+ background: #446696;
+ color: white;
+}
+
+.btn--warning {
+ background: #FFBD4D;
+ color: #333;
+ font-weight: bold;
+ }

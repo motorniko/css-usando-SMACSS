@@ -1,0 +1,32 @@
+/*aqi los globales y tipografias*/
+
+body {
+ font-family: Arial, sans-serif;
+ background: #f0f0f0;
+ padding: 30px;
+}
+
+.title {
+ margin: 0;
+}
+
+.text {
+ margin: 0;
+}
+
+.title--page {
+ text-align: center;
+ margin-bottom: 40px;
+ font-size: 28px;
+}
+
+.title--card {
+ font-size: 20px;
+ margin-bottom: 10px;
+}
+
+.text--body {
+ font-size: 14px;
+ margin-bottom: 15px;
+ color: #555;
+}
